@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherStation", "WeatherStation\WeatherStation.csproj", "{724EFE7D-5172-4B2D-9700-B487002A5193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherClient", "WeatherClient\WeatherClient.csproj", "{DDCC727F-5F29-4A66-9CB0-F9A2CB618B87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724EFE7D-5172-4B2D-9700-B487002A5193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724EFE7D-5172-4B2D-9700-B487002A5193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724EFE7D-5172-4B2D-9700-B487002A5193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724EFE7D-5172-4B2D-9700-B487002A5193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCC727F-5F29-4A66-9CB0-F9A2CB618B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCC727F-5F29-4A66-9CB0-F9A2CB618B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCC727F-5F29-4A66-9CB0-F9A2CB618B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCC727F-5F29-4A66-9CB0-F9A2CB618B87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
